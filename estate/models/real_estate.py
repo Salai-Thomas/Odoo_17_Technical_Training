@@ -1,6 +1,4 @@
 from odoo import fields, models, api
-
-
 class RealEstate(models.Model):
     _name = 'real.estate'
     _description = 'Test model'
